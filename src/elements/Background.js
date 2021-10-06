@@ -7,6 +7,7 @@ const Background = () => {
   return(
         <>
             <PuntosArriba/>
+            <Svg/>
             <PuntosAbajo/>
         </>
   );
